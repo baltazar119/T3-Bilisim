@@ -1,0 +1,10 @@
+.ticket-confirmation {
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.ticket-confirmation p {
+  margin: 6px 0;
+}
